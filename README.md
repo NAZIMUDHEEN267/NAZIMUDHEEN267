@@ -2,4 +2,3 @@
 - Iam a web developer 
 - looking a job for product based companies
 - currently learning in frontend
-- 
