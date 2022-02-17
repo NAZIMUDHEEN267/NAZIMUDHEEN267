@@ -1,4 +1,4 @@
-![](https://twitter.com/NazimudheenT/header_photo)
+![image](https://twitter.com/NazimudheenT/header_photo)
 
 - Hi, I’m @NAZIMUDHEEN TI
 - Iam a web developer 
