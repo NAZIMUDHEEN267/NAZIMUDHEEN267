@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/71973283/154400243-33c4f718-e328-4f5c-ac31-26a850ace220.png)
+![image](https://user-images.githubusercontent.com/71973283/154400510-55e04aca-1362-4906-b829-a742cabdfadd.png)
 
 - Hi, I’m @NAZIMUDHEEN TI
 - Iam a web developer 
