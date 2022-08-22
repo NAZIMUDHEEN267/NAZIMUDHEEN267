@@ -1,11 +1,12 @@
 ![image](https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/github.png)
 
-Hi <iframe src="https://giphy.com/embed/jKkqqRlfzajljKVV5p" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>,
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 <br />
 My name is NAZIMUDHEEN. I'm a self thought web developer. Currently focusing on Frontend (React)
 
 
-## Tools & Technologies
+## 🔧 Tools & Technologies
+
 ![editor](https://img.shields.io/badge/Editor-code-yellow)
 ![code](https://img.shields.io/badge/code-html-yellow)
 ![code](https://img.shields.io/badge/code-css-yellow)
@@ -13,6 +14,11 @@ My name is NAZIMUDHEEN. I'm a self thought web developer. Currently focusing on 
 ![code](https://img.shields.io/badge/code-react-yellow)
 ![code](https://img.shields.io/badge/code-scss-yellow)
 ![tools](https://img.shields.io/badge/tools-github-yellow)
+
+## 📈 Github Stats
+
+![Nazimudheen GitHub stats](https://github-readme-stats.vercel.app/api?username=nazimudheen267&theme=yeblu&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazimudheen267&theme=yeblu&layout=compact)]
 
 <a href="https://nazimudheenti-portfolio.netlify.app">
  <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/globe.png" alt="portfolio.png" width="30" />
