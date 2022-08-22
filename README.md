@@ -12,6 +12,16 @@
  <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/twitter.png" alt="twitter.png" width="30" />
 </a>
 
-Hi :wave:,
+Hi :wave:, <br />
 My name is NAZIMUDHEEN. I'm a self thought web developer. Currently focusing on Frontend (React)
+
+
+## Tools & Technologies
+![editor](https://img.shields.io/badge/Editor-code-yellow)
+![code](https://img.shields.io/badge/code-html-yellow)
+![code](https://img.shields.io/badge/code-css-yellow)
+![code](https://img.shields.io/badge/code-javascript-yellow)
+![code](https://img.shields.io/badge/code-react-yellow)
+![code](https://img.shields.io/badge/code-scss-yellow)
+![tools](https://img.shields.io/badge/tools-github-yellow)
 
