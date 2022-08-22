@@ -1,18 +1,7 @@
 ![image](https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/github.png)
 
-<a href="https://nazimudheenti-portfolio.netlify.app">
- <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/globe.png" alt="portfolio.png" width="30" />
-</a>
-
-<a href="https://www.linkedin.com/in/nazimudheen-ti-405a341b1/?originalSubdomain=in">
- <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/linkedin.png" alt="linkedin.png" width="30" />
-</a>
-
-<a href="https://twitter.com/nazimudheent">
- <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/twitter.png" alt="twitter.png" width="30" />
-</a>
-
-Hi :wave:, <br />
+Hi <iframe src="https://giphy.com/embed/jKkqqRlfzajljKVV5p" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>,
+<br />
 My name is NAZIMUDHEEN. I'm a self thought web developer. Currently focusing on Frontend (React)
 
 
@@ -25,3 +14,14 @@ My name is NAZIMUDHEEN. I'm a self thought web developer. Currently focusing on 
 ![code](https://img.shields.io/badge/code-scss-yellow)
 ![tools](https://img.shields.io/badge/tools-github-yellow)
 
+<a href="https://nazimudheenti-portfolio.netlify.app">
+ <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/globe.png" alt="portfolio.png" width="30" />
+</a>
+
+<a href="https://www.linkedin.com/in/nazimudheen-ti-405a341b1/?originalSubdomain=in">
+ <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/linkedin.png" alt="linkedin.png" width="30" />
+</a>
+
+<a href="https://twitter.com/nazimudheent">
+ <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/twitter.png" alt="twitter.png" width="30" />
+</a>
