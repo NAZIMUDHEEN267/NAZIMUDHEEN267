@@ -1,4 +1,4 @@
-<img https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/github.png height="300"/>
+<img src"https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/github.png" height="300"/>
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 <br />
