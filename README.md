@@ -9,7 +9,10 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - Share my discoveries on the [blog](https://dev.to/nazimudheen_ti) :writing_hand:.
 - GOAL -> become a pro dev :muscle:.
 
-## 🔧 Tools & Technologies
+<p>Languages and Tools</p>
+<div>
+  <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+</div>
 
 ![editor](https://img.shields.io/badge/Editor-code-yellow)
 ![code](https://img.shields.io/badge/code-html-yellow)
@@ -20,8 +23,6 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 ![tools](https://img.shields.io/badge/tools-github-yellow) 
 
 
-
-## 📈 Github Stats
 
 <a href="https://nazimudheenti-portfolio.netlify.app">
  <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/globe.png" alt="portfolio.png" width="30" />
