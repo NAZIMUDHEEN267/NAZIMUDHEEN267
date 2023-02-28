@@ -2,9 +2,12 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Nazimudheen](https://nazimudheenti-portfolio.netlify.app)
 
 
-<p align="center">I'm a guy who is passionate about learning new technologies and curious about innovations, :disguised_face:</p>
+<p align="center">I'm a guy who is passionate about learning new technologies and curious about innovations :nerd_face:,</p>
 
-## Talking about personal stuffs
+- Mobile Developer :iphone:.
+- Open source enthusiast :octocat:.
+- Share my discoveries on the [blog](https://dev.to/nazimudheen_ti) :writing_hand:.
+- GOAL -> become a pro dev :muscle:.
 
 ## 🔧 Tools & Technologies
 
