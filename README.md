@@ -4,6 +4,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 I'm a guy who is passionate about learning new technologies and curious about innovations, 
 
+## Talking about personal stuffs
+
 ## 🔧 Tools & Technologies
 
 ![editor](https://img.shields.io/badge/Editor-code-yellow)
