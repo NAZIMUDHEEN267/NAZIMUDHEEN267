@@ -18,16 +18,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" />
 </div>
 
-![editor](https://img.shields.io/badge/Editor-code-yellow)
-![code](https://img.shields.io/badge/code-html-yellow)
-![code](https://img.shields.io/badge/code-css-yellow)
-![code](https://img.shields.io/badge/code-javascript-yellow)
-![code](https://img.shields.io/badge/code-react-yellow)
-![code](https://img.shields.io/badge/code-scss-yellow)
-![tools](https://img.shields.io/badge/tools-github-yellow) 
 
-
-
+<p>Find me on online </p>
 <a href="https://nazimudheenti-portfolio.netlify.app">
  <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/globe.png" alt="portfolio.png" width="30" />
 </a>
