@@ -1,8 +1,6 @@
-<img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/github.png" height="450" width="100%"/>
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
-<br />
-My name is NAZIMUDHEEN. I'm a self thought web developer. Currently focusing on Frontend (React)
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Nazimudheen]("https://")
+
 
 
 
