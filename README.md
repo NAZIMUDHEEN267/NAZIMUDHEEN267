@@ -22,7 +22,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 </div>
 
 
-<p style="font-weight: 800; margin: 40 0;">Find me on online </p>
+<p style="font-weight: bold; margin: 40 0;">Find me on online </p>
 <a href="https://nazimudheenti-portfolio.netlify.app">
  <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/globe.png" alt="portfolio.png" width="30" />
 </a>
