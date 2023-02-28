@@ -11,7 +11,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 <p>Languages and Tools</p>
 <div>
-  <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="portfolio.png" width="30" />
 </div>
 
 ![editor](https://img.shields.io/badge/Editor-code-yellow)
