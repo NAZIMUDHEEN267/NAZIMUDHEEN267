@@ -1,5 +1,5 @@
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Nazimudheen]("https://")
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Nazimudheen]("https://nazimudheenti-portfolio.netlify.app")
 
 
 
@@ -18,11 +18,6 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 
 ## 📈 Github Stats
-
-
-
-![Nazimudheen GitHub stats](https://github-readme-stats.vercel.app/api?username=nazimudheen267&theme=flag-india&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazimudheen267&theme=flag-india&layout=compact)]
 
 <a href="https://nazimudheenti-portfolio.netlify.app">
  <img src="https://github.com/NAZIMUDHEEN267/NAZIMUDHEEN267/blob/main/globe.png" alt="portfolio.png" width="30" />
