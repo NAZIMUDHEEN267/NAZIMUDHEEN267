@@ -2,7 +2,7 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Nazimudheen](https://nazimudheenti-portfolio.netlify.app)
 
 
-<p class="text-align: center;">I'm a guy who is passionate about learning new technologies and curious about innovations, </p>
+<p align="center">I'm a guy who is passionate about learning new technologies and curious about innovations, </p>
 
 ## Talking about personal stuffs
 
