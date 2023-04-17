@@ -8,7 +8,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 - Mobile Developer :iphone:
 - Open source enthusiast :octocat:
-- Share my discoveries on the [blog](https://dev.to/nazimudheen_ti) :writing_hand:
+<!-- - Share my discoveries on the [blog](https://dev.to/nazimudheen_ti) :writing_hand: -->
 - GOAL -> become a pro dev :muscle:
 
 <p style="font-weight: 800; margin: 40 0;">Languages and Tools</p>
